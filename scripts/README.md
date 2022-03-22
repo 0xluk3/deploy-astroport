@@ -41,8 +41,3 @@ Function prototypes were scrapped from astroport contracts using Schema to Class
 - Scripts are blocked on MacOS (https://stackoverflow.com/questions/60087434/macos-catalina-fse-node-cannot-be-opened-because-the-developer-cannot-be-ver)
 - On slower system localterra dies in the middle of deployment, but this is system problem
 
-## Find me 
-For any suggestions or issues you can find me on twitter @0xluk3
-
-todo: use other clients to e.g. create base pairs - how to import function from another file
-describe other clients
