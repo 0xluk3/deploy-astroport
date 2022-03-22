@@ -1,0 +1,1 @@
+https://github.com/terraswap/terraswap/tree/main/contracts/terraswap_token
