@@ -25,7 +25,9 @@ Download and start LocalTerra in a separate terminal
 
 ```npm install  ```
 
-```./run deploy-env.ts``` 
+```chmod +x ./*.* ```
+
+```./run.sh deploy-env.ts``` 
 
 Then you can use any client to communicate with respective astroport component. They are reusing .env file created at deployment to get contract addresses to communicate with.
 
