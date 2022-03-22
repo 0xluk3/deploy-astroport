@@ -21,7 +21,7 @@ Download and start LocalTerra in a separate terminal
 
 ```cd LocalTerra && docker-compose up  ```
 
-```git clone REPO && cd REPO/scripts  ```
+```git clone https://github.com/0xluk3/deploy-astroport.git && cd deploy-astroport/scripts  ```
 
 ```npm install  ```
 
