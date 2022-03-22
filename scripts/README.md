@@ -30,6 +30,7 @@ Download and start LocalTerra in a separate terminal
 ```./run.sh deploy-env.ts``` 
 
 Then you can use any client to communicate with respective astroport component. They are reusing .env file created at deployment to get contract addresses to communicate with.
+As a result, .env file is generated in scripts/ folder which contains adresses of all deployed contracts. Client scripts make use of it to take address of contracts to communicate with. This .env can be copied to another project which depends on astroport contracts, so it can make use of deployed instance.
 
 
 The "clients" are implementing basic operations and have some function templates, but exact arguments (and some JSON structures) are not provided at the moment, so it might be useful to check them in Astroport Contracts (https://github.com/astroport-fi/astroport-core/tree/main/contracts) or Astroport Docs (https://docs.astroport.fi/astroport/)
