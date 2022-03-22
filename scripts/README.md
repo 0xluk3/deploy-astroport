@@ -7,7 +7,7 @@ Useful for testing any Terra projects that interacts with Astroport - saves time
 - LocalTerra downloaded and being able to run it
 - nodejs installed 
 
-The repo contains precompiled contracts in .wasm form from both Astroport and Terraswap (basic CW tokens) which were compiled few days before uploading it to github. If in the future they change and I don't update them here you will need to compile contract yourself and place them in 
+The repo contains precompiled contracts in .wasm form from both Astroport and Terraswap (basic CW20 tokens) which were compiled few days before uploading it to github. If in the future they change and I don't update them here you will need to compile contract yourself and place them in 
 astroport/ and tokens/ folders.
 
 ## How to run?
